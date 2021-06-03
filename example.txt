@@ -1,0 +1,4 @@
+Teacher Record
+Teacher ID: 90701095739083
+Teacher Name: Mahlomola Lebogo
+Class And Section: SCOB, COSC
